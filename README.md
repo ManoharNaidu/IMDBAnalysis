@@ -25,7 +25,7 @@ Follow the steps below to use the notebook:
 
 1. Open the notebook (`notebookbd3f87ac8b.ipynb`) in Google Colab.
 2. Right-click on the dataset file (`IMDB-Movie-Data.csv`) in the file explorer of Google Colab and copy the absolute path.
-3. Go to line 3 of the notebook and update the dataset path as follows:
+3. Go to line 4 of the notebook and update the dataset path as follows:
 
 data = pd.read_csv('PASTE_ABSOLUTE_PATH_HERE')
 
