@@ -17,7 +17,7 @@ Before running the notebook, ensure you have the following installed:
 1. Download the notebook file (`notebookbd3f87ac8b.ipynb`) from this repository.
 2. Open Google Colab.
 3. Upload the notebook file (`notebookbd3f87ac8b.ipynb`) to your Google Colab workspace.
-4. Download the dataset file (`IMDB-Movie-Data.csv`) and upload it to the project directory in Google Colab.
+4. Download the dataset file (`IMDB-Movie-Data.csv`) and upload it to the project directory in Google Colab (download the file from archive.rar).
 
 ### Usage
 
